@@ -60,7 +60,7 @@ TAP Flow is derived from the point-track annotations released as part of **TAP-V
 }
 ```
 
-The TAP-Vid **annotations** (point tracks) are released under a **Creative Commons BY** license. However, the underlying **source video**  carry their own license. We only use the DAVIS dataset which was introduced by 
+The TAP-Vid **annotations** (point tracks) are released under a **Creative Commons BY** license. We use the DAVIS dataset from TAP-ViD which was introduced in the following paper:
 
 > F. Perazzi, J. Pont-Tuset, B. McWilliams, L. Van Gool, M. Gross, and A. Sorkine-Hornung.
 > **A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation.**
