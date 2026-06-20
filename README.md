@@ -35,11 +35,12 @@ The Slow Flow dataset and reference optical flow ground truth were introduced in
 > *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*
 
 ```bibtex
-@inproceedings{Janai2017CVPR,
-  author    = {Joel Janai and Fatma G{\"u}ney and Jonas Wulff and Michael Black and Andreas Geiger},
-  title     = {Slow Flow: Exploiting High-Speed Cameras for Accurate and Diverse Optical Flow Reference Data},
-  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2017}
+@inproceedings{janai2017slow,
+  title={Slow flow: Exploiting high-speed cameras for accurate and diverse optical flow reference data},
+  author={Janai, Joel and Guney, Fatma and Wulff, Jonas and Black, Michael J and Geiger, Andreas},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3597--3607},
+  year={2017}
 }
 ```
 
@@ -52,11 +53,13 @@ TAP Flow is derived from the point-track annotations released as part of **TAP-V
 > *Google DeepMind, 2022.*
 
 ```bibtex
-@article{doersch2022tapvid,
-  title   = {TAP-Vid: A Benchmark for Tracking Any Point in a Video},
-  author  = {Doersch, Carl and Gupta, Ankush and Markeeva, Larisa and Recasens, Adri{\`a} and Smaira, Lucas and Aytar, Yusuf and Carreira, Jo{\~a}o and Zisserman, Andrew and Yang, Yi},
-  journal = {Google DeepMind},
-  year    = {2022}
+@article{doersch2022tap,
+  title={Tap-vid: A benchmark for tracking any point in a video},
+  author={Doersch, Carl and Gupta, Ankush and Markeeva, Larisa and Recasens, Adria and Smaira, Lucas and Aytar, Yusuf and Carreira, Joao and Zisserman, Andrew and Yang, Yi},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={13610--13626},
+  year={2022}
 }
 ```
 
@@ -67,10 +70,11 @@ The TAP-Vid **annotations** (point tracks) are released under a **Creative Commo
 > *Computer Vision and Pattern Recognition (CVPR), 2016.*
 
 ```bibtex
-@inproceedings{Perazzi2016CVPR,
-  author    = {Federico Perazzi and Jordi Pont-Tuset and Brian McWilliams and Luc Van Gool and Markus Gross and Alexander Sorkine-Hornung},
-  title     = {A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation},
-  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2016}
+@inproceedings{perazzi2016benchmark,
+  title={A benchmark dataset and evaluation methodology for video object segmentation},
+  author={Perazzi, Federico and Pont-Tuset, Jordi and McWilliams, Brian and Van Gool, Luc and Gross, Markus and Sorkine-Hornung, Alexander},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={724--732},
+  year={2016}
 }
 ```
