@@ -4,7 +4,7 @@ This Real-World Optical Flow benchmark consists of three datasets, **Slow Flow**
 
 ## Dataset Download Links
 
-The three datasets can be downloaded [here](https://data.4tu.nl/)
+The three datasets can be downloaded [here](https://data.4tu.nl/).
 
 ## Usage
 
